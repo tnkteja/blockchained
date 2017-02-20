@@ -1,5 +1,5 @@
 # Smart Contracts
-
+> If blockchain were to kick-off and adopted universally, then its the end of Kali-yug and start of Satya yug.
 ## Related Work
 
 [1] talks the some various technologies used in the smart contracts context, especially around the ethereum cryptocurrency. It gives a rather comprehensive how-to introduction on making a smart contract.
