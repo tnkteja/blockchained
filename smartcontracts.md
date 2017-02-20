@@ -1,5 +1,9 @@
 # Smart Contracts
+Imagine barter system, but only in 21st century, that is what it will be if we pursue block-chain seriously. Social impact would be that people will more value the honor :bowtie: than the money as the middle men are out of the picture, well not quite sure how it is achieved yet.
+
 > If blockchain were to kick-off and adopted universally, then its the end of Kali-yug and start of Satya yug.
+
+
 ## Related Work
 
 [1] talks the some various technologies used in the smart contracts context, especially around the ethereum cryptocurrency. It gives a rather comprehensive how-to introduction on making a smart contract.
