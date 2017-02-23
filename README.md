@@ -13,7 +13,6 @@ Public Key Infrastructure, too much a name for a  set of keys, conjoined by cryp
 Ordering of facts with consensus is computer science problem, not really, it is a computer networks problem, two machines contending for 
 its next turn on the shared medium, we call it every other nanosecond ***da!!***. 
 
-One naive way of checking for the  
 Integrity of facts with consensus is another problem
 , a rather hilariously doomed to sink solution for it is Proof of Work, which is hash value for the participants `new fact on the block + previous block hash value on the block emphasizing chainess + bruteforcely sweated value`, hard to generate, but easy to validate by the depending participant, generated fully or partly by the so called ***Miners***, to emphasize that ***finders are keepers***, who get some credit value possibly as a some reward, or infamously bitcoins way as transaction with a new block on top of the block they mined, with sudden realisation of involved inflation, where miner again needs other miner to establish consensus on his work, which only resulting in exponential expenditure of computational power raising the value of credit earned. ***Huf!!!***
 
