@@ -1,12 +1,18 @@
-*** Disclaimer ***
 
+````
+Disclaimer
+This content is extremely opiniated, please feel free to argue against it.
+```
 Some  popular brotherly examples to this technology are distributed source code mangement technologies like Git, SVN.
 
-## Where it all begins !
- 
-Data integrity comes from Hashing techniques, where a hashfunction taking any amount of data 
+## Where it all begins !:
+Data integrity comes from Hashing techniques, where a hashfunction taking any amount of data to produce a ":smirk: collision resistant hash value :smirk:".
 
-## Blockchain
+Public Key Infrastructure, too much a name for a  set of keys, conjoined by cryptographic destiny, that endorse another set of keys, with a dispute of "Who the hell are you to endorse in the first place?", which is often helplessly depended upon for bet against the endorsers reputation, "so no legal drags works here!".
+
+## A rather Block*buster* Chain not litereally.
+
+
 ## Operating Models
 ### Pure Distributed Model
 It carries the pure essence of distributed nature for the common data between the participants using blockchain technology. 
