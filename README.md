@@ -11,7 +11,7 @@ Data integrity comes from Hashing techniques, where a hashfunction taking any am
 Public Key Infrastructure, too much a name for a  set of keys, conjoined by cryptographic destiny, that endorse another set of keys, with a dispute of "Who the hell are you to endorse in the first place?", which is often helplessly depended upon for bet against the endorsers reputation, "so no legal drags works here!".
 
 Ordering of facts with consensus is computer science problem, not really, it is a computer networks problem, two machines contending for 
-its next turn on the shared medium, we call it every nanosecond ***da!!***. 
+its next turn on the shared medium, we call it every other nanosecond ***da!!***. 
 
 One naive way of checking for the  
 Integrity of facts with consensus is another problem
