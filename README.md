@@ -1,6 +1,12 @@
 *** Disclaimer ***
 
 Some  popular brotherly examples to this technology are distributed source code mangement technologies like Git, SVN.
+
+## Where it all begins !
+ 
+Data integrity comes from Hashing techniques, where a hashfunction taking any amount of data 
+
+## Blockchain
 ## Operating Models
 ### Pure Distributed Model
 It carries the pure essence of distributed nature for the common data between the participants using blockchain technology. 
