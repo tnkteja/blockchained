@@ -52,27 +52,46 @@ class PersistantFactBlock(block):
         self.persistantFact=None
         
 class SmartContract(PersistantFactBlock):
-    class CodeType:
-        INTREPRETED:0
+    class ChainCode(object):
+        class CodeType:
+            INTREPRETED:0
+                
+        class Model(object):
+            def __init__(self, kwargs={}):
+                self.accessSpecifiers={}
+                self.inheritPermissions=False
+                self.__dict__.update(kwargs)
+                self.parent=None
+                self.children=[]
+        
+        class Controller(object):
+            def __init__(self):
+                self.permissions=None
             
-    class Model(object):
-        def __init__(self, kwargs={}):
-            self.accessSpecifiers={}
-            self.inheritPermissions=False
-            self.__dict__.update(kwargs)
-            self.parent=None
-            self.children=[]
-                    
-        def onCreateHook(self):
-            pass
+            def create(self):
+                pass
+            
+            def update(self):
+                pass
+            
+            def delete(self):
+                pass
+            
+            def onCreateHook(self):
+                pass
+
+            def OnUpdateHook(self):
+                pass
+
+            def OnDeleteHook(self):
+                pass
         
-        def OnUpdateHook(self):
+        class View(object):
+            def __init__(self):
+                self.permissions=None
+                
+        def __init__(self):
             pass
-        
-        def OnDeleteHook(self):
-            pass
-        
-        def load(self)
         
     def __init__(self, initialData={"permissions":"all", "data":}, persistingCode, type=SmartContract.CodeType.INTERPRETED intrepreter="C:\Python27\python.exe"):
         super(SmartContract, self).__init__()
