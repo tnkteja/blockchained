@@ -14,7 +14,8 @@ Ordering of facts with consensus is computer science problem, not really, it is 
 its next turn on the shared medium, we call it every other nanosecond ***da!!***. 
 
 Integrity of facts with consensus is another problem
-, a rather hilariously doomed to sink solution for it is Proof of Work, which is hash value for the participants `new fact on the block + previous block hash value on the block emphasizing chainess + bruteforcely sweated value`, hard to generate, but easy to validate by the depending participant, generated fully or partly by the so called ***Miners***, to emphasize that ***finders are keepers***, who get some credit value possibly as a some reward, or infamously bitcoins way as transaction with a new block on top of the block they mined, with sudden realisation of involved inflation, where miner again needs other miner to establish consensus on his work, which only resulting in exponential expenditure of computational power raising the value of credit earned. ***Huf!!!***
+, a rather hilariously doomed to sink solution for it is Proof of Work, which is hash value for the participants `new fact on the block + previous block hash value on the block emphasizing chainess + bruteforcely sweated value`, hard to generate, but easy to validate by the depending participant, generated fully or partly by the so called ***Miners***, to emphasize that ***finders are keepers***, who get some credit value possibly as a some reward, or infamously bitcoins way as transaction with a new block on top of the block they mined, with sudden realisation of involved inflation, where miner again needs other miner to establish consensus on his work, which only resulting in exponential expenditure of computational power raising the value of credit earned. ***Huf!!!*** A genius wealthy man at the brink of his edge of goodness, becomes a miner, not just **Monopoly** problem,but  would scare the decade old vested interest in the bitcoin, with a two mining a new block with to achieve hash collisions, with immediete **trolling** of the depending participant. I will not even start about the practical problems. Until the Miner is done with his job, the dependent participant has to hold on to his fact on the block tight. :grimacing: ***Bam!!!***. from Eavesdroppers **racing to create hashcollisions** to create hashcollision. feeling a **Heart attack situation** where after gettting the block from the miner only to see irrepairnly altered facts on the block, putting him thorough the pain to seeking a stronger
+
 
 Proof of stake looked like a saviour but not for a while .
 
@@ -25,6 +26,8 @@ Proof of stake looked like a saviour but not for a while .
 ![blockchain.jpeg](https://github.com/tnkteja/blockchained/blob/master/images/blockchain.jpeg)
 
 Each Participant gets his own copy of the block chain. So no complaints.
+
+## 
 
 ## Classic
 It carries the pure essence of distributed nature for the common data between the participants using blockchain technology. 
@@ -46,11 +49,19 @@ Any group of individuals can come together and make their own network, from as m
 
 **Participants** with _managed identities_ 
 
+```
+Yearning Semantics: 
+
+Monopoly Problem, Tragedy of commons
+Double spend problem - Racee attack, Finney attack, Vector76 attack, Brute force attack, >50% attack.
+```
 ## References
 
 1. _Wang, Andy. "Blockchain Technology and Its Applications." (2016)._
 2. _world_
 3. _https://marmelab.com/blog/2016/04/28/blockchain-for-web-developers-the-theory.html_
 4. _https://en.wikipedia.org/wiki/Consensus_(computer_science)_
+5.
+6.
 
 `Copyright protected 2017, Neela Krishna Teja Tadikonda, All rights reserved. Copynig or using any of the material is striclty considered for leagal action.`
