@@ -19,7 +19,7 @@ Integrity of facts with consensus is another problem
 
 Proof of stake looked like a saviour but not for a while .
 
-
+A Well orchestrated Smart fact on the block is which can implicate different intrepretations on the other facts participates addes to the new block. Say its a code, then
 
 
 ## A rather Block*buster* Chain not litereally.
