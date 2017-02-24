@@ -1,4 +1,5 @@
 from md5 import md5
+from sqlite import sqlite
 
 class HashFunction(object):
     def __init__(self):
@@ -32,7 +33,8 @@ class Hashers(object):
 class block(object):
     def __init__(self):
         self.hashType=None
-        self.database=None
+        self.hashValue=None
+        self.fact=None
         self.previous=None
         self.next=None
         self.language=None
@@ -41,9 +43,55 @@ class block(object):
         self.next=other
         other.previous=self
 
-    def mine(self, hashers):
+    def createConsensus(self):
         pass
-
+    
+class PersistantFactBlock(block):
+    def __init_(self,persistantFact):
+        super(PersistantFactBlock,self).__init__(self)
+        self.persistantFact=None
+        
+class SmartContract(PersistantFactBlock):
+    class CodeType:
+        INTREPRETED:0
+            
+    class Model(object):
+        def __init__(self, kwargs={}):
+            self.accessSpecifiers={}
+            self.inheritPermissions=False
+            self.__dict__.update(kwargs)
+            self.parent=None
+            self.children=[]
+                    
+        def onCreateHook(self):
+            pass
+        
+        def OnUpdateHook(self):
+            pass
+        
+        def OnDeleteHook(self):
+            pass
+        
+        def load(self)
+        
+    def __init__(self, initialData={"permissions":"all", "data":}, persistingCode, type=SmartContract.CodeType.INTERPRETED intrepreter="C:\Python27\python.exe"):
+        super(SmartContract, self).__init__()
+        
+    def 
+        
+class Currency(block):
+    POW=0
+    def __init__(self):
+        super(Currency,self).__init__()
+        self.consensusType=Currency.POW
+    
+    def mine(self):
+        pass
+    
+    def createConsensus(self):
+        mine()
+        
+        
  """
  MIT License
 
