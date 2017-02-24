@@ -61,7 +61,7 @@ Double spend problem - Racee attack, Finney attack, Vector76 attack, Brute force
 2. _world_
 3. _https://marmelab.com/blog/2016/04/28/blockchain-for-web-developers-the-theory.html_
 4. _https://en.wikipedia.org/wiki/Consensus_(computer_science)_
-5.
+5. _http://www.coindesk.com/making-sense-smart-contracts/_
 6.
 
 `Copyright protected 2017, Neela Krishna Teja Tadikonda, All rights reserved. Copynig or using any of the material is striclty considered for leagal action.`
