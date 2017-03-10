@@ -1,7 +1,7 @@
 # Smart Contracts
 Imagine barter system, but only in 21st century, that is what it will be if we pursue block-chain seriously. Social impact would be that people will more value the honor :bowtie: than the money as the middle men are out of the picture, well not quite sure how it is achieved yet.
 
-> If blockchain were to kick-off and adopted universally, then its the end of Kali-yug and start of Satya yug.
+> If blockchain were to kick-off and adopted universally, then its the end of [Kali-yug](https://en.wikipedia.org/wiki/Kali_Yuga) and start of [Satya-yug](https://en.wikipedia.org/wiki/Satya_Yuga).
 
 
 ## Related Work
