@@ -21,7 +21,7 @@ Proof of stake looked like a saviour but not for a while .
 
 A Well orchestrated Smart fact on the block is which can implicate different intrepretations on the other facts participates addes to the new block. Say its a code, then
 
-
+Consensus Service 
 ## A rather Block*buster* Chain not litereally.
 ![blockchain.jpeg](https://github.com/tnkteja/blockchained/blob/master/images/blockchain.jpeg)
 
@@ -47,7 +47,7 @@ Any group of individuals can come together and make their own network, from as m
 
 ### IBM Business Block
 
-**Participants** with _managed identities_ 
+**Participants** with _managed identities_ , promised with a <br/> <a href="https://imgflip.com/i/1l6bab"   ><img src="https://i.imgflip.com/1l6bab.jpg" title="made at imgflip.com" height="256px"/></a>
 
 ```
 Yearning Semantics: 
