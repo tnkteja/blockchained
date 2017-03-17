@@ -1,8 +1,8 @@
-
-````
+```
 Disclaimer
 This content is extremely opiniated, please feel free to argue against it. 
 ```
+
 Some  popular brotherly examples to this technology are distributed source code mangement technologies like Git, SVN.
 
 ## Where it all begins !:
@@ -22,6 +22,7 @@ Proof of stake looked like a saviour but not for a while .
 A Well orchestrated Smart fact on the block is which can implicate different intrepretations on the other facts participates addes to the new block. Say its a code, then
 
 Consensus Service 
+
 ## A rather Block*buster* Chain not litereally.
 ![blockchain.jpeg](https://github.com/tnkteja/blockchained/blob/master/images/blockchain.jpeg)
 
@@ -55,6 +56,7 @@ Yearning Semantics:
 Monopoly Problem, Tragedy of commons
 Double spend problem - Racee attack, Finney attack, Vector76 attack, Brute force attack, >50% attack.
 ```
+
 ## References
 
 1. _Wang, Andy. "Blockchain Technology and Its Applications." (2016)._
